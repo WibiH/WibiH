@@ -1,8 +1,16 @@
-### Hi I'm Wibi!✌🏻
-#### I am a Frontend Developer...
+## Hi, I'm Wibi!✌🏻
+
+
 ![I am a Frontend Developer](https://media.licdn.com/dms/image/D4E16AQGVPr0zdfEv9w/profile-displaybackgroundimage-shrink_350_1400/0/1685201845000?e=1690416000&v=beta&t=PpYGaBVJCeyrhGflwIcMe1Xe_vDcfWH944Ar4QJJXC8)
 
-... with a background as a Communication Designer based in Berlin, Germany. In my projects I enjoy using React, CSS and Node.js. I love to think and work creatively with an enthusiam for cracking puzzle-games 👾
+### I am a Frontend Developer...
+
+with a background as a Communication Designer based in Berlin, Germany. </br>
+I love to work & think creatively and in my projects I enjoy using React, CSS and Node.js. 
+
+I'm enthusiatic about food 🥑 movies 👽 and cracking puzzle-games 👾
+
+Contact me via <a href="mailto:whagenauer@gmx.de">eMail</a>, <a href="https://www.linkedin.com/in/wiebke-hagenauer/">LinkedIn</a> or <a href="https://github.com/WibiH">GitHub</a>
 
 ##
 
