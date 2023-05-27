@@ -1,7 +1,7 @@
 ## Hi, I'm Wibi!✌🏻
 
 
-![I am a Frontend Developer](https://media.licdn.com/dms/image/D4E16AQGVPr0zdfEv9w/profile-displaybackgroundimage-shrink_350_1400/0/1685201845000?e=1690416000&v=beta&t=PpYGaBVJCeyrhGflwIcMe1Xe_vDcfWH944Ar4QJJXC8)
+![I am a Frontend Developer](https://media.licdn.com/dms/image/D4E16AQFNOOQ30x05XA/profile-displaybackgroundimage-shrink_350_1400/0/1685207331265?e=1690416000&v=beta&t=ZdAin8nt6A6SYEItDQQzOPBqVWYySSpmxy471H5sIEc)
 
 ### I am a Frontend Developer...
 
