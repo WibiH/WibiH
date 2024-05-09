@@ -1,6 +1,6 @@
 ## Hi, I'm Wibi!✌🏻
 
-### I am a Frontend Developer...
+### I am a Web Developer...
 
 with a background as a Communication Designer based in Berlin, Germany. </br>
 I love to work & think creatively and in my projects I enjoy using React, CSS and Node.js. 
