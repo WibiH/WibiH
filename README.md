@@ -3,7 +3,7 @@
 ### I am a Web Developer...
 
 with a background as a Communication Designer based in Berlin, Germany. </br>
-I love to work & think creatively and in my projects I enjoy using React, CSS and Node.js. 
+I love to work & think creatively and in my projects I enjoy using Java or JS with React and I like CSS 😅
 
 I'm enthusiatic about food 🥑 movies 👽 and cracking puzzle-games 👾
 
